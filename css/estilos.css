@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: Arial;
+}
+
+
+#titulo {
+	width: 500px;
+	height: 60px;
+	margin:10px auto;
+	font-size: 50px;
+	font-family: 'Itim', cursive;
+	text-align: center;
+	background: #551454;
+	color:#D59DE7;
+	line-height: 30px;
+	padding: 5px;
+}
+
+input{
+	padding: 10px;
+	margin: 5px auto;
+	width:475px;
+	height:20px;
+	text-align: center;
+	font-size: 16px;
+}
+
+input[type="submit"]{
+	height: 58px;
+	width:500px;
+	background:#551454;
+	color:#D59DE7; 
+	font-size: 30px;
+	font-family: 'Itim', cursive;
+	text-align: center;
+	line-height: 29px;
+}
